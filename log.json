@@ -1,0 +1,1 @@
+{"parameter" : {"nearest_neighbor_num" : 10, "reverse_nearest_neighbor_num" : 30, "method" : "inverted_index_euclid", "parameter" : {} }, "method" : "lof" }
